@@ -1,0 +1,29 @@
+Define problem statment in detail 
+
+Every day, millions of people apply for jobs, sign up for new services, or book travel online — often without fully understanding the fine print they’re agreeing to.
+These legal or policy documents (e.g., privacy policies, job applications, or terms of service) are intentionally complex, lengthy, and filled with vague or technical clauses that conceal important rights, risks, or obligations.
+
+As a result:
+	•	Users unknowingly consent to data sharing, location tracking, or AI-driven hiring decisions.
+	•	Consumers miss critical refund or compensation rights when flights are delayed or canceled.
+	•	Applicants accept arbitration clauses or background checks without explicit consent.
+
+
+Build a Chrome extension that automatically:
+	•	Reads and analyzes the fine print on webpages (job listings, sign-up forms, airline policies, etc.).
+	•	Uses machine learning + rule-based detection to highlight clauses that may impact privacy, rights, or financial obligations.
+	•	Summarizes the key points and explains the risks in plain language, empowering users to make informed decisions.
+
+This project aims to:
+	•	Democratize legal and data transparency, using AI to explain complex policies in human terms.
+	•	Promote responsible consent and digital literacy.
+	•	Provide a foundation for AI-assisted consumer rights tools, adaptable across industries (jobs, travel, e-commerce)
+
+Product 
+ - Start with a chrome extension 
+
+ Competition
+ - https://tosdr.org/en
+
+Define architecture
+Find data 

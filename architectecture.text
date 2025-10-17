@@ -1,0 +1,5 @@
+labels.yml 
+YAML - is a simple, human-readable format for storing configuration or structured data — like JSON, but cleaner and easier to edit manually.
+- Defines the categories you’re detecting (Arbitration, Data Sharing, etc.)
+- Stores extra metadata like severity and explanations
+- Lets your model, UI, and extension all read from the same source of truth
