@@ -3,3 +3,39 @@ YAML - is a simple, human-readable format for storing configuration or structure
 - Defines the categories you’re detecting (Arbitration, Data Sharing, etc.)
 - Stores extra metadata like severity and explanations
 - Lets your model, UI, and extension all read from the same source of truth
+
+Folders
+
+data
+
+models
+
+notebooks
+
+reports
+
+src 
+    io_utils.py 
+    Handles input/output: reads different file types(txt, pdf, html) and saves sentence-level JSONL files.
+    Keeps data loading consistent no matter where the text comes from.
+
+
+    preprocess.py 
+    Cleans and splits text into sentences using spaCy. Also generates stable doc_ids from file paths.
+    Gives normalized, sentence-level units for later ML work.
+
+
+    rules.py
+    Contains weak-label regex rules to classify sentences as risk, safe, info, or neutral.
+    Simulates early supervision — will train models on these later.
+
+
+    Summarize.py
+    Implements extractive summarization: embeds sentences (MiniLM) and selects the most diverse, central ones with MMR.
+    Produces readable summaries without deep learning or LLMs.
+
+
+    report.py
+    Assembles Markdown summaries combining general TL;DR, pitfalls, and benefits bullets.
+    Gives you a human-readable output artifact.
+
