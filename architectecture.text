@@ -39,3 +39,19 @@ src
     Assembles Markdown summaries combining general TL;DR, pitfalls, and benefits bullets.
     Gives you a human-readable output artifact.
 
+
+How data flows
+
+raw file → io.read_text()
+   ↓
+normalize + sentence split → preprocess.to_sentences()
+   ↓
+weak labeling → rules.label_sentence()
+   ↓
+store labeled sentences → data/processed/...
+   ↓
+summarize (MMR) → summarize.mmr()
+   ↓
+generate Markdown summary → report.write_markdown()
+   ↓
+✅ reports/doc_0001_summary.md
