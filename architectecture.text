@@ -55,3 +55,12 @@ summarize (MMR) → summarize.mmr()
 generate Markdown summary → report.write_markdown()
    ↓
 ✅ reports/doc_0001_summary.md
+
+
+
+
+What kind of data will you need?
+How will you store this data?
+What kind of model will you use?
+how will you deploy your mode? 
+   - how will users use your project?

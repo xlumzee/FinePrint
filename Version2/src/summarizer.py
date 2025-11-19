@@ -1,7 +1,12 @@
 # this should use an LLM to produce a simple 5 bullet summary
 
+import os
+from dotenv import load_dotenv
 from openai import OpenAI
-client = OpenAI()
+
+load_dotenv() # load variables from .env
+
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 def summarize_policy(text):
     prompt = f"""
