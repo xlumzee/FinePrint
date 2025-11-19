@@ -1,0 +1,777 @@
+Privacy Policy
+Effective as of 06/10/2025
+
+This Privacy Policy describes the privacy practices of Snorkel AI, Inc. ("Snorkel AI", "we", "us" or "our") and how we handle personal information that we collect through our website (the "Service"), as well as through social media, our marketing activities, and other activities described in this Privacy Policy.
+
+Snorkel AI may provide additional or supplemental privacy policies to individuals for specific products or services that we offer at the time we collect personal information.
+
+Our websites, products and services are designed for businesses and other academic and government entities and their representatives. We do not offer products or services for use by individuals for their personal, family or household purposes. Accordingly, we treat all personal information we collect as pertaining to individuals in their capacities as business representatives and not their individual capacities.
+
+You can download a printable copy of this Privacy Policy here.
+
+Index
+Personal information we collect
+How we use your personal information
+How we share your personal information
+Your choices
+Other sites and services
+Security
+International data transfer
+Children
+Changes to this Privacy Policy
+How to contact us
+Information for California residents
+Notice to European users
+ 
+Personal information we collect
+Information you provide to us. Personal information you may provide to us through the Service or otherwise includes:
+
+Commercial Information, such as products or services you have purchased, obtained, or considered, as well as other information related to your purchasing or consuming history.
+Contact data, such as email address, phone number and mailing address.
+Communications that we exchange with you, including when you contact us with questions or feedback, through the Service, social media, or otherwise.
+Demographic Information, such as your city, state, country of residence, postal code, and age.
+Financial data, such as your bank account and payment card details.
+Identity data, such as your first and last name, and customer identification number.
+Marketing data, such as your preferences for receiving our marketing communications and details about your engagement with them.
+Professional or employment information, such as your current job title and Company name.
+Other data not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
+Automatic data collection. We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and your interaction over time with the Service, our communications and other online services, such as:
+
+Device data, such as your computer's or mobile device's operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
+Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to the Service, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our marketing emails or clicked links within them.
+Location data when you authorize (our mobile application/the Service) to access your device's location.
+Cookies. Some of our automatic data collection is facilitated by cookies and similar technologies. For more information, see our Cookie Notice.
+
+Cookies and similar technologies. Like many online services, we use the following technologies:
+
+Cookies, which are text files that websites store on a visitor's device to uniquely identify the visitor's browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand user activity and patterns, and facilitating analytics and online advertising.
+Local storage technologies, like HTML5 and Flash, that provide cookie-equivalent functionality but can store larger amounts of data, including on your device outside of your browser in connection with specific applications.
+Web beacons, also known as pixel tags or clear GIFs, which are used to demonstrate that a webpage or email address was accessed or opened, or that certain content was viewed or clicked.
+How we use your personal information
+We may use your personal information for the following purposes or as otherwise described at the time of collection:
+
+Service delivery. We may use your personal information to:
+
+provide, operate and improve the Service and our business;
+enable security features of the Service, such as remembering devices from which you have previously logged in;
+communicate with you about the Service, including by sending announcements, updates, security alerts, and support and administrative messages;
+understand your needs and interests, and personalize your experience with the Service and our communications;
+provide support for the Service, and respond to your requests, questions and feedback.
+Research and development. We may use your personal information for research and development purposes, including to analyze and improve the Service and our business. As part of these activities, we may create aggregated, de-identified or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.
+
+Marketing and advertising. We, our service providers and our third-party partners may collect and use your personal information for marketing purposes:
+
+Direct marketing. We may send you Snorkel AI-related or other direct marketing communications as permitted by law. You may opt-out of our marketing communications as described in the Opt-out of marketing section below.
+Compliance and protection. We may use your personal information to:
+
+comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities;
+protect our, your or others' rights, privacy, safety or property (including by making and defending legal claims);
+audit our internal processes for compliance with legal and contractual requirements or our internal policies;
+enforce the terms and conditions that govern the Service;
+prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+With your consent. In some cases, we may specifically ask for your consent to collect, use or share your personal information, such as when required by law.
+
+To create anonymous, aggregated or de-identified data. We may create anonymous, aggregated or de-identified data from your personal information and other individuals whose personal information we collect. We make personal information into anonymous, aggregated or de-identified data by removing information that makes the data identifiable to you. We may use this anonymous, aggregated or de-identified data and share it with third parties for our lawful business purposes, including to analyze and improve the Service and promote our business.
+
+How we share your personal information
+We may share your personal information with the following parties and as otherwise described in this Privacy Policy or at the time of collection.
+
+Affiliates. Our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
+
+Service providers. Third parties that provide services on our behalf or help us operate the Service or our business (such as hosting, information technology, customer support, email delivery, marketing, and website analytics).
+
+Business and marketing partners. Third parties with whom we collaborate on joint activities, or with whom we have entered into joint marketing relationships or other joint ventures.
+
+Professional advisors. Professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us.
+
+Authorities and others. Law enforcement, government authorities, and private parties, as we believe in good faith to be necessary or appropriate for the compliance and protection purposes described above.
+
+Business transferees. Acquirers and other relevant participants in business transactions (or negotiations and diligence for such transactions) involving a corporate divestiture, merger, consolidation, acquisition, reorganization, sale or other disposition of all or any portion of the business or assets of, or equity interests in, Snorkel AI or our affiliates (including, in connection with a bankruptcy or similar proceedings).
+
+SMS Communications By providing your phone number, you consent to receive communications from Snorkel AI via SMS or phone call, including service updates and relevant information about your relationship with Snorkel AI.
+You may opt out at any time by replying STOP to a message or emailing expert@snorkel.ai.
+
+Your choices
+You have the following choices with respect to your personal information.
+
+Opt-out of marketing communications. You may opt-out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email, or by contacting us. Please note that if you choose to opt-out of marketing-related emails, you may continue to receive service-related and other non-marketing emails.
+
+Cookies. For information about cookies employed by the Service and how to control them, see our Cookie Notice.
+
+Mobile location data. You can disable our access to your device's precise geolocation in your mobile device settings.
+
+Do Not Track. Some Internet browsers may be configured to send "Do Not Track" signals to the online services that you visit. We currently do not respond to "Do Not Track" or similar signals. To find out more about "Do Not Track" please visit http://www.allaboutdnt.com.
+
+Declining to provide information. We need to collect personal information to provide certain services. If you do not provide the information we identify as required or mandatory, we may not be able to provide those services.
+
+Other sites and services
+The Service may contain links to websites, mobile applications, and other online services operated by third parties. In addition, our content may be integrated into web pages or other online services that are not associated with us. These links and integrations are not an endorsement of, or representation that we are affiliated with, any third party. We do not control websites, mobile applications or online services operated by third parties, and we are not responsible for their actions. We encourage you to read the privacy policies of the other websites and mobile applications and online services you use.
+
+Security
+We employ a number of technical, organizational and physical safeguards designed to protect the personal information we collect. However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your personal information.
+
+International data transfer
+We are headquartered in the United States and may use service providers that operate in other countries. Your personal information may be transferred to the United States or other locations where privacy laws may not be as protective as those in your state, province, or country.
+
+Children
+The Service is not intended for use by children under 16 years of age. If we learn that we have collected personal information through the Service from a child under 16 without the consent of the child’s parent or guardian as required by law, we will delete it. We encourage parents or guardians with concerns to contact us.
+
+Changes to this Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. If we make material changes to this Privacy Policy, we will notify you by updating the date of this Privacy Policy and posting it on the Service. If required by law we will also provide notification of changes in another way that we believe is reasonably likely to reach you, such as via email or another manner through the Service. Any modifications to this Privacy Policy will be effective upon our posting the modified version (or as otherwise indicated at the time of posting). In all cases, your use of the Service after the effective date of any modified Privacy Policy indicates your acceptance of the modified Privacy Policy.
+
+How to contact us
+If you have any questions or concerns at all about our Privacy Policy, please feel free to email us at:
+
+Email: privacy@snorkel.ai
+Mail: Perry St., Redwood City, CA, 94063
+
+Information for California residents
+Scope. This section applies only to California residents. It describes how we collect, use, and share Personal Information of California residents in our capacity as a "business" under the California Consumer Privacy Act ("CCPA") and their rights with respect to that Personal Information. For purposes of this section, the term "Personal Information" has the meaning given in the CCPA but does not include information exempted from the scope of the CCPA. In some cases, we may provide a different privacy notice to certain categories of California residents, such as job applicants, in which case that notice will apply instead of this section.
+
+Your California privacy rights. As a California resident, you have the rights listed below. However,these rights are not absolute, and in certain cases we may decline your request as permitted by law.
+
+Information.You can request the following information about how we have collected and used your Personal Information during the past 12 months:
+The categories of Personal Information that we have collected.
+The categories of sources from which we collected Personal Information.
+The business or commercial purpose for collecting and/or selling Personal Information.
+The categories of third parties with whom we share Personal Information.
+The categories of Personal Information that we sold or disclosed for a business purpose.
+The categories of third parties to whom the Personal Information was sold or disclosed for a business purpose.
+Access. You can request a copy of the Personal Information that we have collected about you during the past 12 months.
+Deletion. You can ask us to delete the Personal Information that we have collected from you.
+Opt-out of sales. You can opt-out any sale of your Personal Information.
+Opt-in. If we know that you are under 16 years of age, we will ask for your affirmative authorization to sell your Personal Information before we do so.
+Nondiscrimination. You are entitled to exercise the rights described above free from discrimination as prohibited by the CCPA.
+Right to information, access and deletion. You may submit requests to exercise your right to information, access or deletion by calling us at 650-752-6970 or sending an email to privacy@snorkel.ai.
+
+Notice of right to opt-out of the "sale" of your Personal Information. We have not sold Personal Information in the past 12 months.
+
+We will need to verify your identity to process your information, access and deletion requests and reserve the right to confirm your California residency. To verify your identity, we may require government identification, a declaration under penalty of perjury or other information. Your authorized agent may make a request on your behalf upon our verification of the agent's identity and our receipt of a copy of a valid power of attorney given to your authorized agent pursuant to California Probate Code Sections 4000-4465. If you have not provided your agent with such a power of attorney, you must provide your agent with written and signed permission to exercise your CCPA rights on your behalf, provide the information we request to verify your identity, and provide us with confirmation that you have given the authorized agent permission to submit the request.
+
+Personal information that we collect, use and disclose. The chart below summarizes the Personal Information we collect by reference to the categories of Personal Information specified in the CCPA, and describes our practices currently and during the 12 months preceding the effective date of this Privacy Policy. Information you voluntarily provide to us, such as in free-form webforms, may contain other categories of personal information not described below.
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Source of PI
+
+Business/ commercial purpose for collection
+
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Categories of third parties to whom we "sell" PI
+
+Identifiers
+
+Contact data
+Identification data
+You
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+California Customer Records (as defined in California Civil Code section 1798.80)
+
+Contact data
+You
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Commercial Information
+
+Commercial Information
+Marketing data
+Online activity data
+You
+Automatic collection
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Online Identifiers
+
+Profile data
+Device data
+You
+Automatic collection
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Internet or Network Information
+
+Profile data
+Device data
+You
+Automatic collection
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Geolocation Data
+
+Profile data
+Device data
+Precise location data
+Demographic information
+You
+Automatic collection
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Inferences
+
+May be derived from your:
+
+Commercial information
+Identifiers
+Internet or Network Information
+Online Identifiers
+Professional or employment information
+N/A
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Identifiers
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Contact data
+Identification data
+Source of PI
+
+You
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+California Customer Records (as defined in California Civil Code section 1798.80)
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Contact data
+Source of PI
+
+You
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Commercial Information
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Contact data
+Marketing data
+Online activity data
+Source of PI
+
+You
+Automatic collection
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Online Identifiers
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Profile data
+Device data
+Source of PI
+
+You
+Automatic collection
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Internet or Network Information
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Profile data
+Device data
+Source of PI
+
+You
+Automatic collection
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Geolocation Data
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+Profile data
+Device data
+Precise location data
+Demographic information
+Source of PI
+
+You
+Automatic collection
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Statutory category of personal information (PI)
+(Cal. Civ. Code § 1798.140)
+
+Inferences
+
+PI we collect in this category
+(See Personal information we collect above for description)
+
+May be derived from your:
+
+Commercial information
+Identifiers
+Internet or Network Information
+Online Identifiers
+Professional or employment information
+Source of PI
+
+N/A
+Business/ commercial purpose for collection
+
+Service delivery
+Research & development
+Marketing
+Compliance & protection
+Categories of third parties to whom we "disclose" PI for a business purpose
+
+Affiliates
+Service providers
+Professional advisors
+Authorities and others
+Business transferees
+Business and marketing partners
+Categories of third parties to whom we "sell" PI
+
+None
+
+Your California privacy rights. Under California's Shine the Light law (California Civil Code Section 1798.83), California residents may ask companies with whom they have formed a business relationship primarily for personal, family or household purposes to provide the names of third parties to which they have disclosed certain personal information (as defined under the Shine the Light law) during the preceding calendar year for their own direct marketing purposes and the categories of personal information disclosed. You may send us requests for this information to privacy@snorkel.ai. In your request, you must include the statement "Shine the Light Request", and provide your first and last name and mailing address and certify that you are a California resident. We reserve the right to require additional information to confirm your identity and California residency. Please note that we will not accept requests via telephone, mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+
+Notice to European Users
+The information provided in this "Notice to European Users" section applies only to individuals in Europe.
+
+Personal Data. References to "personal information" in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation. Essentially, it boils down to information about an individual, from which that individual is either directly identified or can be identified. It does not include 'anonymous data' (i.e., information where the identity of individual has been permanently removed).
+
+Controller. Snorkel AI, Inc. is the controller of your personal information covered by this Privacy Policy for purposes of European data protection legislation. See the Contact Us section above for contact details.
+
+Legal bases for processing. We use your personal information only as permitted by law, for the purposes for which we collected it as listed below. In respect of each of the purposes for which we use your personal information, the European data protection legislation requires us to ensure that we have a "legal basis" for that use. Our legal bases for processing your personal information described in this Privacy Policy are listed below.
+
+Where we need to perform a contract, we are about to enter into or have entered into with you ("Contractual Necessity").
+Where it is necessary for our legitimate interests and your interests and fundamental rights do not override those interests ("Legitimate Interests"). More detail about the specific legitimate interests pursued in respect of each Purpose we use your personal information for is set out in the table below.
+Where we need to comply with a legal or regulatory obligation ("Compliance with Law").
+Where we have your specific consent to carry out the processing for the Purpose in question ("Consent"). Generally, we do not rely on your Consent as a legal basis for using your personal information other than in the context of direct marketing communications.
+We have set out below, in a table format, the legal bases we rely on in respect of the relevant Purposes for which we use your personal information.
+
+Purpose
+
+Category(ies) of personal information involved
+
+Why do we do this
+
+Our legal basis for this use of data
+
+Account Creation
+
+Identity information
+Contact Data
+Demographic information
+To process and manage registrations you make through the Site, including for courses or events that we organize or host and to administer contests and other promotions
+
+Contractual Necessity.
+Operate the Site/Service delivery
+
+Identity information
+Contact data
+Commercial information
+Device data
+Demographic information
+Communications
+To operate, maintain, administer and improve the Site
+
+To better understand your needs and interests, and personalize your experience with the Site
+
+To respond to your service-related requests, questions and feedback
+
+Contractual necessity
+Legitimate Interests
+Compliance, Fraud Prevention and safety
+
+Identity information
+Contact data
+To keep our website, our services and associated systems operational and secure
+
+To enforce the terms and conditions that govern the Site
+
+Legitimate Interests.
+
+We have a legitimate interest in ensuring the ongoing security and proper operation of our services, website and associated IT services and networks.
+
+Troubleshooting
+
+Identity information
+Contact data
+Technical information
+To track issues that might be occurring on our systems, provide support and maintenance for the Site
+
+To manage and communicate with you regarding your relationship with us, if you have one, including by sending you service announcements, technical notices, updates, security alerts, and support and administrative messages
+
+Legitimate Interests.
+
+It is in our legitimate interests that we can monitor and ensure the proper operation of our Sites and associated systems and services.
+
+Marketing
+
+Identity information
+Contact data
+Marketing data
+Communications
+Commercial information
+Online activity data
+To form a view on what we think you may want or need, or what may be of interest to you. You will have the ability to opt out of such communications. If you have consented to receive marketing communications from our third-party partners, you may withdraw your consent by contacting those partners directly.
+
+Consent.
+
+Job application
+
+Identity information
+Contact data
+Professional or employment information
+To manage our recruiting and process employment applications
+
+To facilitate our recruitment activities and process employment applications, such as by evaluating a job candidate for an employment activity, and monitoring recruitment statistics
+
+Legitimate Interests.
+
+We have a legitimate interest in considering your job application.
+
+Purpose
+
+Account Creation
+
+Category(ies) of personal information involved
+
+Identity information
+Contact Data
+Demographic information
+Why do we do this
+
+To process and manage registrations you make through the Site, including for courses or events that we organize or host and to administer contests and other promotions
+
+Our legal basis for this use of data
+
+Contractual Necessity.
+Purpose
+
+Operate the Site/Service delivery
+
+Category(ies) of personal information involved
+
+Identity information
+Contact data
+Commercial information
+Device data
+Demographic information
+Communications
+Why do we do this
+
+To operate, maintain, administer and improve the Site
+
+To better understand your needs and interests, and personalize your experience with the Site
+
+To respond to your service-related requests, questions and feedback
+
+Our legal basis for this use of data
+
+Contractual necessity
+Legitimate Interests
+Purpose
+
+Compliance, Fraud Prevention and safety
+
+Category(ies) of personal information involved
+
+Identity information
+Contact data
+Why do we do this
+
+To keep our website, our services and associated systems operational and secure
+
+To enforce the terms and conditions that govern the Site
+
+Our legal basis for this use of data
+
+Legitimate Interests.
+
+We have a legitimate interest in ensuring the ongoing security and proper operation of our services, website and associated IT services and networks.
+
+Purpose
+
+Troubleshooting
+
+Category(ies) of personal information involved
+
+Identity information
+Contact data
+Technical information
+Why do we do this
+
+To track issues that might be occurring on our systems, provide support and maintenance for the Site
+
+To manage and communicate with you regarding your relationship with us, if you have one, including by sending you service announcements, technical notices, updates, security alerts, and support and administrative messages
+
+Our legal basis for this use of data
+
+Legitimate Interests.
+
+It is in our legitimate interests that we can monitor and ensure the proper operation of our Sites and associated systems and services.
+
+Purpose
+
+Marketing
+
+Category(ies) of personal information involved
+
+Identity information
+Contact data
+Marketing data
+Communications
+Commercial information
+Online activity data
+Why do we do this
+
+To form a view on what we think you may want or need, or what may be of interest to you. You will have the ability to opt out of such communications. If you have consented to receive marketing communications from our third-party partners, you may withdraw your consent by contacting those partners directly.
+
+Our legal basis for this use of data
+
+Consent.
+
+Purpose
+
+Job application
+
+Category(ies) of personal information involved
+
+Identity information
+Contact data
+Professional or employment information
+Why do we do this
+
+To manage our recruiting and process employment applications
+
+To facilitate our recruitment activities and process employment applications, such as by evaluating a job candidate for an employment activity, and monitoring recruitment statistics
+
+Our legal basis for this use of data
+
+Legitimate Interests.
+
+We have a legitimate interest in considering your job application.
+
+Use for new purposes. We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis.
+
+Sensitive personal information. We ask that you not provide us with any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background or trade union membership) on or through the Service, or otherwise to us. If you provide us with any sensitive personal information to us when you use the Service, you must consent to our processing and use of such sensitive personal information in accordance with this Privacy Policy. If you do not consent to our processing and use of such sensitive personal information, you must not submit such sensitive personal information through our Service.
+
+Automated Decision-Making and Profiling. We may use automated decision-making and/or profiling in regard to your personal information when you apply for a job opportunity and for automated lead qualification when you submit your information to receive a demo. You can request a manual review of the accuracy of an automated decision that you are unhappy with or limit or object to such automated decision-making and/or profiling by contacting us at privacy@snorkel.ai
+
+Retention
+We retain personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes.
+
+To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+When we no longer require the personal information we have collected about you, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. If we anonymize your personal information (so that it can no longer be associated with you), we may use this information indefinitely without further notice to you.
+
+Your rights
+European data protection laws give you certain rights regarding your personal information. If you are located within the European Union, you may ask us to take the following actions in relation to your personal information that we hold:
+
+Access. Provide you with information about our processing of your Personal Data and give you access to your Personal Data.
+Correct. Update or correct inaccuracies in your Personal Data.
+Delete. Delete your Personal Data.
+Transfer. Transfer a machine-readable copy of your Personal Data to you or a third party of your choice.
+Restrict. Restrict the processing of your Personal Data.
+Object. Object to our reliance on our legitimate interests as the basis of our processing of your Personal Data.
+Opt-out. Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails.
+You may submit these requests by email to privacy@snorkel.ai or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or our response to your requests regarding your personal information, you may contact us or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here.
+
+Cross-Border Data Transfer
+If we transfer your personal information out of Europe to a country not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be performed:
+
+Pursuant to the recipient’s compliance with standard contractual clauses, EU-US Privacy Shield (or Swiss-US Privacy Shield, as applicable), or Binding Corporate Rules
+Pursuant to the consent of the individual to whom the personal information pertains
+As otherwise permitted by applicable European requirements.
+You may contact us if you want further information on the specific mechanism used by us when transferring your personal information out of Europe.

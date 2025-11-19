@@ -1,0 +1,2 @@
+Starting simple
+Raw Policy → Extract → Clean → Summarize → Output
