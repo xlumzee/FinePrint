@@ -14,10 +14,10 @@ Because the documents meant to inform us — ****privacy policies, terms of serv
 
 As a result:
 
-* **Users unknowingly consent to ** **data sharing** **, ** **location tracking** **, ** **AI-based hiring decisions** **, or ** **selling of behavioral data** **.**
+* Users unknowingly consent to **data sharing**, **location tracking**, **AI-based hiring decisions** , or**selling of behavioral data**
 * Travelers miss compensation rights because **airline refund or delay policies** hide exceptions deep in the document.
-* **Job applicants accept ** **arbitration agreements** **, ** **criminal background checks** **, or ****data retention policies** without realizing the implications.
-* **Consumers lose money through ** **auto-renewals** **, ** **hidden fees** **, and ** **non-refundable clauses** **.**
+* Job applicants accept **arbitration agreements**, **criminal background checks**, or **data retention policies** without realizing the implications.
+* Consumers lose money through **auto-renewals**, **hidden fees**, and **non-refundable clauses**
 
 This creates a massive transparency gap:
 
