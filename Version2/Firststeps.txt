@@ -15,3 +15,15 @@ Risk detection engine
 Detect important clause categories
 Highlight the risky or user - impactful clauses
 - First rule based detection
+Done
+
+4) 
+ML Classifier taht learns to detect clauses automatically
+Create a Dataset(CSV) with clause_text and label using the rule based detector. This should ideally cature discovered clause, detected label, context and this will become training data
+
+    4.1) 
+    Clause Segmentation - split policy into analyzable clauses
+    clause splitter
+
+    4.2) 
+    auto label each clause using rule based detector (Next to do)
