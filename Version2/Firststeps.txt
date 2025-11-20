@@ -1,4 +1,4 @@
-Starting simple
+Order of Implementation
 1) 
 Raw Policy → Extract → Clean → Summarize → Output
 made an Extractor.py, summarizer.py using an llm from openai - giving it a prompt and api call. loads a policy and summarizes in 5 bullet points
@@ -8,3 +8,10 @@ Done
 Handle long policies - Chunking + combining summaries. Big companies have big policies - far too long for a single llm call.
 Chunk long text → summarize each chunk → combine summaries → produce final summary
 Scaling
+Done
+
+3)
+Risk detection engine
+Detect important clause categories
+Highlight the risky or user - impactful clauses
+- First rule based detection
