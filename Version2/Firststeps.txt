@@ -30,3 +30,6 @@ Create a Dataset(CSV) with clause_text and label using the rule based detector. 
     auto_labeler will import the clause splitter, import risk detector, label each clause and return a list of samples
 
     4.3) building the clause dataset
+    columns be like clause, label, source_policy
+
+5) Bert training - next to do 
