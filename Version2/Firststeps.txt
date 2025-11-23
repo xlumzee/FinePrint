@@ -41,12 +41,14 @@ ran pipelines on the above
 
 Progress and updates
 - labels for the collected privacy policies 
-none            742
-tracking         47
-data_sharing     44
-location          4
-ai_decisions      4
-refunds           1
+none                 3200
+data_sharing          310
+tracking              214
+location               24
+ai_decisions           11
+employment_checks       5
+arbitration             2
+refunds                 1
 
 this is too low, i need atleast 20 samples on each label, so need to collect more data, will do that
 
