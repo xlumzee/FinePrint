@@ -31,5 +31,7 @@ Create a Dataset(CSV) with clause_text and label using the rule based detector. 
 
     4.3) building the clause dataset
     columns be like clause, label, source_policy
+    
+--- Gonna make a better rule based risk pattern before bert for a better data set
 
 5) Bert training - next to do 
