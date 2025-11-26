@@ -52,6 +52,10 @@ refunds                 1
 
 this is too low, i need atleast 20 samples on each label, so need to collect more data, will do that
 
+Collecting more data for AI decisions, location, employment checks and refunds
+Collecting data is lowkey the most boring part. I am going to each website and copy pasting the privacy policy. Soooo boring. I wonder if there is a faster way. But well, this is part of the process. 
+Whoever you are, If you are reading this in the future, reach out to me on linkedin, and tell me remember boston clock reset? I will for sure help you through whatever you are going through. I need to put this someplace more obscure.
+
 
 
 5) Bert training - next to do 

@@ -1,0 +1,295 @@
+Indeed's Recruitment Privacy Policy
+Other Languages: Français, Québécois, Deutsche, 日本語, Italiano, Português, Nederlands, Español, Polski
+
+ Welcome
+Indeed’s core mission is to help people get jobs. There are plenty of reasons to come work with us. Indeed values the trust our candidates place in us when they give us access to their personal data. This Recruiting Privacy Policy describes how we work to maintain that trust and protect that information.
+
+We’ve recently updated our Recruiting Privacy Policy to ensure we clearly explain how we collect and use personal and non-personal data.
+
+Here’s a summary of key updates:
+
+We have made changes to the structure and layout of our Privacy Policy to make it easier to read and understand.
+We have added more detail about the information we collect, how we use personal data and the legal bases we rely upon to use personal data.
+We have added more information about data transfers. 
+We encourage you to review the “Last Updated” date below to see when this Privacy Policy was last amended. Any changes to the Privacy Policy become effective on the “Last Updated” date indicated below. 
+
+If Indeed is going to use personal data in a manner materially different from that stated at the time of collection, then Indeed will notify users via email and/or by posting a notice on the applicable Sites for 30 days prior to such use or by other means as required by law. If you wish to object to any new notified processing, you can contact us at privacy-dept@indeed.com. 
+
+Indeed reserves the right to amend this Privacy Policy at any time.
+
+ 
+
+Indeed’s Recruitment Privacy Policy
+Last updated: September 2, 2025 
+
+Please note Indeed and its affiliates are directly or indirectly owned by a publicly traded Japanese parent company, Recruit Holdings Co. Ltd.
+
+Please also be aware this Privacy Policy covers the handling of your data as a candidate for a role with Indeed. It does not cover your use of Indeed products or services. To learn more about our data collection practices in our products or services, please see the privacy policy(ies) linked to those products and services.
+
+1. Introduction
+This Privacy Policy details how we collect, use, and disclose the personal and non-personal data we collect from and about you when you access or use our online and/or mobile websites, applications, services, and software, interact with us on the phone or in person, or, where permitted by applicable law and in line with this Privacy Policy, that we obtain from publicly available sources or third-party sources.
+
+Indeed has a responsibility to protect and preserve the private information of every candidate for a role with Indeed, and we take that responsibility seriously. This Privacy Policy is provided by Indeed, Inc. and its affiliates (‘Indeed’) to inform candidates for roles with Indeed about our activities relative to the handling of personal data concerning candidates (‘candidate personal data’).
+
+This Privacy Policy covers all individuals applying for roles at Indeed or who have expressed a positive interest in a position with Indeed, including applications for all types of permanent and non-permanent positions. 
+
+1.1 Who is Responsible for Your Information
+The primary applicable data controller will be the Indeed entity that intends to/enters the employment contract or contract for services with the candidate. 
+
+UK	Indeed UK Operations Limited
+Japan	Indeed Technologies Japan K.K.
+Indeed Japan K.K
+
+US	Indeed, Inc.
+Indeed Hire, Inc.
+
+Ireland	Indeed Ireland Operations Ltd.
+India 	Indeed India Operations Private Limited
+Canada	Indeed Canada Corp. 
+Germany	Indeed Deutschland GmbH
+Netherlands	Indeed Netherlands B.V.
+France	Indeed France SAS
+Australia	Indeed Australia Pty. Ltd.
+Singapore	Indeed Singapore Operations Pte. Ltd.
+Italy	Indeed Italy S.r.l.
+Belgium	Indeed Belgium Operations BVBA
+Spain	Indeed Spain Operations S.L.
+Switzerland	Indeed Schweiz AG
+Brazil	Indeed Brasil Pesquisa de Empregos LTDA
+Mexico	Indeed Mexico, S. de R.L. de C.V.
+Sweden 	Indeed Sweden AB
+Poland*	Indeed Poland sp. z.o.o
+*There are currently no employees employed in Poland; 
+
+2.  Data Collection and Use
+2.1 Information collected 
+During the application, recruitment, or onboarding process at Indeed, we may collect, store, and process the following types of personal data obtained directly from you: 
+
+What we collect 	How we use it and why we process it 	Legal Basis 
+Contact information – such as name, address, telephone, email address	So that Indeed can arrange for any necessary accommodation access during the recruitment process.
+Communicating with a candidate during the recruitment and onboarding process.
+
+Performance of a contract in order to recruit and onboard a candidate.
+Legitimate interest in managing our business; for the purposes of approaching candidates in relation to roles.
+
+Depending on your location we may rely on your consent to contact you in relation to roles for which we believe you might be suitable.
+
+Application Data –   such as academic and professional qualifications, CV/resume, employment references, cover letters, information from interviews, compensation benefits requests, relocation information, and any other information you provide to us in support of and during the recruitment process; 	Determining the applicant’s qualifications, skills and background for a particular position.
+Carrying out functions in relation to a candidate’s future employment. 
+
+Managing and improving Indeed’s recruitment process.
+
+Legitimate interest in determining suitability for a role, to facilitate a candidate’s application to a role, and to improve our processes.
+Performance of a contract. 
+
+Depending on your location we may rely on your consent.
+
+Information about your work eligibility – such as immigration status, work authorizations, and visas 	Determining a candidate’s right to work.
+Conducting background checks and similar inquiries in compliance with applicable laws, and otherwise to comply with all applicable laws.
+
+Establishing, exercising, or defending claims.
+
+Compliance with a legal obligation.
+Depending on your location we may rely on your consent.
+
+Financial information and government identification documents, such as bank account details passport, and national security numbers	Processing payroll, compensation, and benefits.
+To perform background checks.
+
+Performance of a contract for payroll and benefit purposes during the onboarding process.
+Compliance with a legal obligation.
+
+URL links to online platform pages such as LinkedIn, other social networks and career sites, or portfolio sites; 	Determining a candidate’s qualifications, skills, and background for a particular position.
+For recruitment purposes. 
+
+Legitimate interest in sourcing suitable candidates.
+Demographic Data – in limited situations, we process, on a voluntary disclosure basis, limited and targeted provision of sensitive candidate’s personal data such as racial/ethnic origin, military status, disability status, and gender	For the purposes of government reporting obligations and/or ongoing equal opportunities and diversity monitoring, where permitted by law. 
+We analyze it for specific purposes in line with applicable data protection regulations.
+
+Understanding, promoting, and assisting in ensuring that our recruitment process is diverse and inclusive.
+
+The provision of this information is entirely voluntary and will not be used in any determination of your job application. 
+
+We only collect this data with your consent, and only in markets where such collection is permitted. 
+Special Category of Data, such as criminal convictions, in jurisdictions where it is permitted by law.	For conducting background checks. 	Legitimate interest in ensuring the security of our business and employees and determining suitability for a role.
+Depending on your location we may rely on your consent.
+
+2.2 Candidate Personal Data Provided by Third Parties
+Indeed may also collect information about you from third parties or public sources as needed to support our recruitment process. For example, before your employment or appointment with Indeed, we may collect information from appropriate social media sources for recruitment purposes. We also may conduct background screenings through a third-party service provider and collect information about your past education, right to work, employment, credit, and/or criminal history, where permissible and in accordance with applicable law. Alternatively, third parties may refer or recommend you to our recruiters.
+
+2.3 Retention of Your Candidate’s Personal Data
+Indeed and its affiliates may retain the information you provide in your application in order to permit Indeed to contact you in the future with respect to other positions for which you may be suitable. If you become an employee of Indeed, this information will become part of your employment record. Otherwise, we retain such data until it is no longer necessary to fulfill the purpose it is being used for, as required by applicable laws,  or until you ask us to delete it. Please note, Indeed might have a legal obligation to retain certain personal data from your job application for a period of time as mandated by the laws in your location. You can learn more about the retention period for each country here.
+
+Please refer to sections 3.2 and 3.3 of this privacy policy for more details on third-party service providers and other third parties with which we may share your candidate’s personal data.
+
+3. Who We Share Your Data With 
+Indeed will not share or otherwise disclose a candidate’s personal data for purposes unrelated to those detailed in this privacy policy without the prior consent of the candidate. To that end, Indeed will take reasonable precautions to allow access to candidate personal data to only those Indeed employees, agents, contractors, or similar entities to the extent necessary for the purposes set out in this privacy policy.
+
+Such disclosures of personal data in the course of the recruitment process will usually involve the transfer of candidate personal data to countries outside of where the information was originally collected (including countries outside the European Economic Area). All such transfers are performed in full compliance with applicable data protection rules and subject to appropriate safeguards, primarily through the use of extensive data protection agreements. Please refer to section 4.0 of this privacy policy for more information about the transfer of your candidate’s personal data to foreign countries.
+
+In compliance with CCPA, we affirm that we do not have actual knowledge of selling or sharing the personal information of consumers, including of those under 16 years of age. We do not use or disclose sensitive personal information unless reasonably necessary and only for purposes permitted by CCPA, including but not limited to performance of services and user security.
+
+3.1 Transfers of Your Candidate’s Personal Data Between Indeed Affiliated Entities
+Candidate’s personal data may be disclosed among various affiliated companies within Indeed for the purposes set out in this privacy policy.
+
+3.2 Transfers of Your Candidate’s Personal Data to Certain Third-Party Service Providers
+In the course of our recruitment activities, Indeed may make certain candidate’s personal data available to third parties who provide services to us to support those activities. Indeed will only do so where such a transfer is necessary, and in accordance with applicable data protection rules.
+
+Your personal data may be made available to the following types of service providers:
+
+companies that help with relocation support services,
+companies that provide payroll support services,
+companies that help with verification/background checking services,
+companies that help with candidate experience surveys,
+cloud services companies that provide hosting, data storage, and other services pursuant to standard terms and conditions that may be non-negotiable
+companies that help improve Indeed services to candidates. These third parties may provide data points including how much time you spend on specific pages, which links you choose to click, and data that helps determine user preferences. This information enables us to build and maintain our services with user feedback. These third parties may use cookies and other technologies to collect data on your behaviour and devices such as the device type, browser information, and preferred language.
+companies that help manage candidates’ recruitment life cycle via cloud-based recruitment software solutions. These are known as applicant tracking systems (ATS).
+These service providers may change over time but we will always use trusted service providers who will handle your personal data in a manner consistent with this privacy policy and in accordance with applicable law.
+
+3.3 Transfers of Your Candidate’s Personal Data to Other Third Parties
+In addition to section 3.2, Indeed may also disclose your candidate’s personal data to other third parties in certain limited circumstances, including (but not limited to):
+
+to comply with our legal obligations;
+to establish, exercise or defend against potential, threatened or actual litigation;
+where necessary to protect Indeed, your vital interests, or those of another person; or
+in connection with the sale, assignment or other transfer of all or part of our business.
+Please contact privacy-dept@indeed.com if you would like to get more information on these third parties.
+
+4. Region-Specific Information
+Indeed is a global organization with offices in multiple locations around the world. This means we may transfer your personal information to other Indeed entities, third parties or business partners in various countries. We have implemented measures to safeguard your personal information should it be transferred to another country, which are set out below. In this section, you will also find information relevant to your specific region, where applicable.
+
+4.1 Europe: Cross-border data transfers outside the EEA, UK and Switzerland
+Where appropriate, Indeed Ireland’s transfers of personal data of individuals in the EEA, the United Kingdom, and Switzerland to jurisdictions outside the EEA, United Kingdom, and Switzerland are performed using lawful transfer mechanisms pursuant to GDPR. For example, transfers are typically based on the European Commission’s standard contractual clauses. These agreements also incorporate the protections and requirements provided for under Chapter V (and Article 28, where appropriate) of the GDPR.
+
+4.2 EU-U.S. DPF, Swiss-U.S. DPF and the UK Extension to the EU-U.S. Data Privacy Framework 
+Indeed Inc. complies with the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Indeed Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  Indeed Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework program Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+
+The Data Privacy Framework Principles are:
+
+Notice
+Choice
+Accountability for onward transfer
+Security
+Data integrity, and purpose limitation
+Access
+Recourse, enforcement, and liability
+Below is also a list of the Indeed U.S. entities or U.S. subsidiaries that adheres to the EU-U.S. DPF, Swiss-U.S DPF and UK Extension to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF:
+
+Indeed Inc., 
+HR Tech Investments LLC, 
+Indeed Hire, Inc., 
+RGF OHR USA, Inc., 
+SH, Inc., 
+Resume.com Inc., 
+Prehire, Inc., 
+JS Media Inc., and
+Indeed Financial Services, Inc.
+Indeed Inc.’s business operations are aligned with the DPF Principles as further detailed below:
+
+Data collection and use – For the types of personal data collected and details of the purposes for which Indeed Inc. collects and uses personal information, please refer to the “Data Collection and Use” section.
+Contacting Indeed Inc.- For information on how to contact Indeed Inc. with any inquiries or complaints, please see our “Contacting Indeed” section.
+Who we share your data with – Regarding the type or identity of third parties to which Indeed Inc. discloses personal information and the purposes for which it does so, please see the “Who we share your data with” section.
+Your personal data rights – Regarding the right of individuals to access their personal data and the choices and means Indeed Inc. offers individuals for limiting the use and disclosure of their personal data, please see our “ Exercising your rights” section.
+In compliance with the EU-U.S. DPF, Swiss-U.S. DPF, and the UK Extension to the EU-U.S. Data Privacy Framework Principles, Indeed Inc. commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles. European Union, Swiss and United Kingdom individuals with DPF inquiries or complaints should first contact Indeed Inc.
+Indeed. Inc has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers for more information and to file a complaint. This service is provided free of charge to you.
+In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Indeed Inc. commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
+You also have the option to invoke binding arbitration by delivering notice to your controlling entity and following the procedures and subject to conditions set forth in Annex I of the DFP Principles. The purpose of this option is to provide a prompt, independent, and fair mechanism, at the option of the involved parties, for resolution of any claimed violations of the Principles not resolved by any of the other EU-U.S. DPF mechanisms. Please see the section “Who is responsible for your information” to determine your controlling entity or contact privacy-dept@indeed.com.
+For more information, please see the “Complaints and Disputes” section.
+Indeed Inc. is subject to the investigatory and enforcement powers of the FTC.
+Indeed Inc. shall, where required, disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. For more information, please see our “Transparency Report“
+Regarding Indeed Inc’s liability in cases of onward transfers to third parties, a DPF participating organization has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as an agent on its behalf. Indeed Inc. shall remain liable under the Principles if its agent processes such personal data in a manner inconsistent with the principles unless Indeed Inc. proves that it is not responsible for the event giving rise to the damage.
+4.3 United States: Your California privacy rights
+The following rights and information are provided to California residents.
+
+— Right to opt-out of the sale and sharing of your personal data
+California has defined ‘sale’ broadly under the California Consumer Protection Act (CCPA) to include disclosing or transferring personal data to a third party in exchange for monetary or other valuable consideration. CCPA has defined share as disclosing or transferring personal data for the purpose of advertising based on activities across sites.
+
+Indeed does not sell or share your personal data as defined in CCPA.
+
+— CCPA requests report
+As described in section 5, Indeed allows all of its users to exercise their right to access or delete their user data. The form mentioned there is the primary method by which users exercise their rights under applicable privacy laws, like GDPR and CCPA.
+
+4.4 Japan: Japanese Law compliance 
+In accordance with the requirements of the APPI, this section applies to the processing of your personal data by Indeed Japan. This section may also apply to personal information collected and processed by Indeed, other than Indeed Japan, in connection with the provision of goods or services to persons located in Japan.
+
+— Transfer of your personal data to our affiliates and third parties in foreign countries
+Indeed may transfer your personal data to our affiliates and third parties in foreign countries for the purposes described in section 3. The details of such transfers can be found here.
+
+— Disclosure of information
+Under APPI, if you are a resident of Japan, Indeed will disclose, when requested, the following information:
+
+Our security control measures (including safeguards for the international transfer)
+Regarding the transfer (based on equivalent action) of your personal data to our service providers located in foreign countries.
+Please make your request through  privacy-dept@indeed.com.  
+
+— Personally referable information
+We provide cookies, which are personally referable information, to the following affiliated companies, which may manage and use it in conjunction with personal data in accordance with their privacy policies. A list of our affiliates and their privacy policies can be found here.
+
+We may also link the personally referable information we receive with personal data we hold about you.
+
+— Sharing Personal Data for advertisement purposes
+For the purposes described in our Data Collection and Use section, such as advertisement delivery and its effectiveness verification, Indeed collaborates with Google, Meta, and other advertising-related companies for personal data or personal-related information.
+
+These ad-related companies may link the user-related information they hold with email addresses, phone numbers, cookies, and other information we share with them that is necessary to identify users, and may identify users of Indeed services that are common to the services provided by these ad-related companies. ​​
+
+As a result, these advertising affiliates may be able to determine who their users are in common with users of the Indeed service.
+
+— Inquiries and complaints
+If you have any inquiries or complaints regarding the use of your personal data, you may contact us using privacy-dept@indeed.com.
+
+ー Protection of Personal Information in the Telecommunications Business concerning External Transmission Discipline
+We place cookies from other companies on our site to improve customer convenience and provide you with job information that effectively matches your search.
+
+For more information about our cookies, including information about you that is sent to other companies, please see this page.
+
+5. Exercising Your Rights
+Depending on your location you may have rights available to you with respect to your candidate’s personal data held by Indeed. These may include:
+
+the right to rectify your candidate’s personal data or/and your application;
+the right to object to or restrict the processing of your candidate’s personal data;
+the right to object to automated processing, including decision-making and profiling, which produce a legal effect or similarly significant effects;
+the right to request access to and portability of your candidate’s personal data; and
+the right to request deletion of your candidate’s personal data;
+the right to object or opt out of your personal data being sent to a third party [excluding vendors who act as our service provider] / controller;
+the right to be free from any retaliation or discriminatory treatment for exercising your rights with respect to your candidate’s personal data.
+If you want to request that any of these rights be actioned in relation to your personal data, please complete this form. 
+
+Such rights of rectification, objection, restriction, access, portability, and deletion are subject to certain limitations, as provided for by applicable laws. Individual requests will be completed within the time allotted by relevant laws and regulations, which starts to run from the point of Indeed confirming your request.
+
+Where permitted, please note there may be a charge for subsequent requests from the same individual, which will be determined by Indeed and only imposed to the extent permitted by applicable law.
+
+You can update and amend the application information you submitted by completing this form. You can also withdraw your application at any time by logging in to your account. 
+
+When you request access to your candidate’s personal data, these will be sent to the email address associated with your user account, in a readable format.
+
+When you request the deletion of your candidate’s personal data, any in-flight or in-progress applications will be canceled and your user profile information will be deleted.
+
+Indeed verifies all requests through email before actioning them and reserves the right to deny a request where we are unable to verify your identity satisfactorily. 
+
+6. Authorized Agent
+You may use an authorized agent to submit a request on your behalf. Indeed may require that you provide the authorized agent with written permission. Indeed will verify the identity of the authorized agent before actioning the request and any request may be denied if it cannot be verified. To submit a request on your behalf an authorized agent can use this form. 
+
+7. Automated processing
+Indeed may perform automated processing of candidate’s personal data in the context of pre-screening questions. Where we perform this processing, we do so either on the basis of consent or performance of a contract. Where it occurs, such processing is subject to the safeguards detailed in this Privacy Policy to protect your privacy and, if you are entitled by law to do so based on your location, you may contact privacy-dept@indeed.com to obtain human intervention and/or contest any decision generated by said automated processing.
+
+7.1 How we use Artificial Intelligence or “AI”
+Indeed’s mission is to help people get jobs, including jobs at Indeed. In support of this mission, we use personal data to develop, train, build, and use statistical models, including artificial intelligence (“AI”), to improve some of our products and candidate experiences.
+
+We use AI to help find suitable candidates for roles at Indeed. We use your personal data, including profile information and activity data to find suitable candidates for internal roles and to invite you to apply to those roles. These AI features help us connect with you over potential employment opportunities within Indeed. We also use AI to filter, sort and match applicants who have applied to roles at Indeed. We may use AI to generate a summary of your application and to provide our recruiters with a generalized match rating of applications received. Indeed processes personal data including application data to generate these summaries for the purpose of assisting our recruiters. The personal data processed for these purposes is limited to what is necessary for generating application insights and supporting screening decisions.
+
+For more information on how Indeed uses AI please see our Privacy Center and Indeed’s AI Principles.
+
+8. Contacting Indeed
+We welcome your data protection questions. For more information about how we handle your personal data, please contact us.
+
+Contact Indeed Privacy by Email:
+
+To reach us by e-mail, please contact: privacy-dept@indeed.com.
+
+Contacting Indeed Privacy by Telephone:
+
+California residents may call our designated toll-free telephone number at: +1 (800) 616-6535
+
+9. Complaints and Disputes
+Indeed takes your data protection questions and concerns seriously, and we are committed to resolving complaints about our collection or use of your data. If you believe your data protection rights have been infringed, we encourage you to contact our Data Protection Officer by sending an email to privacy-dept@indeed.com.
+
+You may also have the right to complain to the appropriate data protection supervisory authority.
