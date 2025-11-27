@@ -57,9 +57,14 @@ Collecting data is lowkey the most boring part. I am going to each website and c
 Whoever you are, If you are reading this in the future, reach out to me on linkedin, and tell me remember boston clock reset? I will for sure help you through whatever you are going through. I need to put this someplace more obscure.
 
 COU - stands for Conditions of Use
-TOU - Terms of use - some websites have slow loading pages and very laggy
+TOU/TOS - Terms of use/ Terms of service - some websites have slow loading pages and very laggy
 I need to make a glossary.
 
 Some companies have a dedicated help center, while some have a single page. 
+
+Trying to target 15 to 20 more policies before i start training bert. 
+
+Get 15 to 20 policies 
+run the pipeline
 
 5) Bert training - next to do 
