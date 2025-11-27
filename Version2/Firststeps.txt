@@ -56,6 +56,10 @@ Collecting more data for AI decisions, location, employment checks and refunds
 Collecting data is lowkey the most boring part. I am going to each website and copy pasting the privacy policy. Soooo boring. I wonder if there is a faster way. But well, this is part of the process. 
 Whoever you are, If you are reading this in the future, reach out to me on linkedin, and tell me remember boston clock reset? I will for sure help you through whatever you are going through. I need to put this someplace more obscure.
 
+COU - stands for Conditions of Use
+TOU - Terms of use - some websites have slow loading pages and very laggy
+I need to make a glossary.
 
+Some companies have a dedicated help center, while some have a single page. 
 
 5) Bert training - next to do 
