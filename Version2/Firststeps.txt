@@ -67,4 +67,40 @@ Trying to target 15 to 20 more policies before i start training bert.
 Get 15 to 20 policies 
 run the pipeline
 
+Going to create a universal pipeline script, i dont want to run everything individually.
+
+new count 
+label
+none                 12030
+data_sharing           843
+tracking               562
+refunds                136
+location                92
+arbitration             61
+ai_decisions            56
+employment_checks       16
+auto_renewal             2
+Name: count, dtype: int64
+
+need to clean
+
+cleaned version 
+
+label
+none                 11627
+data_sharing           768
+tracking               526
+refunds                134
+location                81
+arbitration             59
+ai_decisions            51
+employment_checks       14
+auto_renewal             2
+Name: count, dtype: int64
+
+collecting the data was worth it. 
+Can train a strong 7 class transformer. Need to drop employment_checks and auto_renewal. They can cause mispredictions and hurt training.
+
+Time to start step 5 , after gym tho. 
+
 5) Bert training - next to do 
