@@ -1,1 +1,6 @@
 Make a glossary
+appendage 
+
+chrome extension
+
+clean up read me

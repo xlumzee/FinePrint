@@ -103,4 +103,23 @@ Can train a strong 7 class transformer. Need to drop employment_checks and auto_
 
 Time to start step 5 , after gym tho. 
 
+Intalling dependencies
+pip install transformers datasets accelerate scikit-learn onnx onnxruntime
+
+7 final classes as labels
+	•	none
+	•	data_sharing
+	•	tracking
+	•	refunds
+	•	location
+	•	arbitration
+	•	ai_decisions
+
+
+train test split done 
+
+
+
+-- issues with transformer library 
+rebuilding environment using pyenv for 3.12.1 -- currently on 3.13.7 which is giving errors
 5) Bert training - next to do 
