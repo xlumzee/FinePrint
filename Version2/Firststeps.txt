@@ -118,8 +118,13 @@ pip install transformers datasets accelerate scikit-learn onnx onnxruntime
 
 train test split done 
 
-
+----- Debugging -----
 
 -- issues with transformer library 
 rebuilding environment using pyenv for 3.12.1 -- currently on 3.13.7 which is giving errors
+
+rebuilt the environment 
+made sure the ipynb and the terminal has the same python environment of 3.12.1 using pyenv and selecting the proper kernel
+
+
 5) Bert training - next to do 
