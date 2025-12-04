@@ -127,4 +127,17 @@ rebuilt the environment
 made sure the ipynb and the terminal has the same python environment of 3.12.1 using pyenv and selecting the proper kernel
 
 
-5) Bert training - next to do 
+5) Bert training 
+
+03_train_distillBert complete , first itiration of model run complete.
+Next thing to do before error analysis. Note down everything done till train and testing. This is already mentioned in the notebook, but I want documentation. Becasue the accuracy is super high and I suspect 
+data leakage. 
+
+So start from step 1 in notebook 3.
+
+- Import labels
+- Read CSV
+- Split data 80 20 and stratify so that each label remains equally represented
+- Create HuggingFace dataset , convert dataframe into dataset object , becasue it works well with map, handles batching automatically, and works natively with Trainer
+
+- 
