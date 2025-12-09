@@ -1,0 +1,31 @@
+Importing 
+- torch
+- datasets for HuggingFace
+- transformers 
+    - DistisBertTokenizerFast
+    - DistisBertForSequenceClassification
+    - TrainingArguements
+    - Trainer
+
+- sklearn metrics
+    - accuracy_score
+    - precision_recall_fscore_support
+    - classification_report
+    - Confusion_matrix
+
+- Labels module (Explain each function)
+    - Labels
+    - label2id
+    - id2label
+
+
+Loading processed data (Explain what is happening, how is it happening)
+
+Splitting the data 80 - 20 using sklearn train_test_split from sklearn
+
+Creating HuggingFace dataset
+- Converting the dataframe we loaded to dataset format which works natively with Trainer(explain)
+    - trainer expects a datset not dataframe
+- works with .map 
+- handles batching automatically
+
