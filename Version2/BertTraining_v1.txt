@@ -29,3 +29,22 @@ Creating HuggingFace dataset
 - works with .map 
 - handles batching automatically
 
+Tokenizer 
+loads the Tokenizer that turns raw text into token IDS the fast Tokenizer:
+- lowercase text (since it is an uncased model)
+- handles padding and truncation 
+- defines how text is represented for the model input
+
+Creating a function that tokeizes clauses
+- truncates long paragraphs
+- pads shorter paragraphs
+- outputs:
+    - input_ids
+    attention_mask - what is important and what is padded[1,0] 
+- max length is 256 becasue most clauses are 1 sentences so to avoid truncation problems 
+
+Mapping Train and test dataframes to data set using .map(explain)
+
+Rename Label column - because trainer expects labels
+
+Removes hidden index_level_0 columns - which
