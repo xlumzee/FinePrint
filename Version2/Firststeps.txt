@@ -1,4 +1,12 @@
 Order of Implementation
+
+Basics 
+
+Activate Virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+
 1) 
 Raw Policy → Extract → Clean → Summarize → Output
 made an Extractor.py, summarizer.py using an llm from openai - giving it a prompt and api call. loads a policy and summarizes in 5 bullet points
@@ -130,8 +138,12 @@ made sure the ipynb and the terminal has the same python environment of 3.12.1 u
 5) Bert training 
 
 03_train_distillBert complete , first itiration of model run complete.
-Next thing to do before error analysis. Note down everything done till train and testing. This is already mentioned in the notebook, but I want documentation. Becasue the accuracy is super high and I suspect 
+
+
+Next thing to do before error analysis. Note down everything done till train and testing. 
+This is already mentioned in the notebook, but I want documentation. Becasue the accuracy is super high and I suspect 
 data leakage. 
+
 
 So start from step 1 in notebook 3.
 
