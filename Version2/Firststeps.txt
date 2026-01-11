@@ -152,4 +152,19 @@ So start from step 1 in notebook 3.
 - Split data 80 20 and stratify so that each label remains equally represented
 - Create HuggingFace dataset , convert dataframe into dataset object , becasue it works well with map, handles batching automatically, and works natively with Trainer
 
-- 
+
+
+
+--- After setting up baseline 
+
+Instead of randomly splitting clauses, you split by company/source_policy so the model is evaluated on entirely unseen companies.
+	•	Train: clauses from 80% of companies
+	•	Test: clauses from the remaining 20% of companies
+	•	The model never sees that company’s style/phrasing during training.
+
+    Putting it in 03_train_distilbert.ipynb (right where the split is rn)
+will replace the current split block with a company split block.
+
+done 
+
+next - document everything for DistillBert because baseline is ready and do next model
